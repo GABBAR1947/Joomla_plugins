@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content">
+    <name>plug_HW</name>
+    <author>Shubham Rathore(:gabbar1947)</author>
+    <creationDate>March 23, 2016</creationDate>
+    <copyright>Gabbar Studioworks</copyright>
+    <license>GNU General Public License</license>
+    <authorEmail>shubhamrathore1947@gmail.com</authorEmail>
+    <version>1.0</version>
+    <description>A HW plugin</description>
+    <files>
+        <filename plugin="helloworld">helloworld.php</filename>
+        <filename>index.html</filename>
+    </files>
+</extension>
